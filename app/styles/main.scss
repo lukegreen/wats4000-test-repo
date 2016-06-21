@@ -4,9 +4,6 @@ $icon-font-path: "../bower_components/bootstrap-sass/assets/fonts/bootstrap/";
 @import "bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
 // endbower
 
-h1 {
-  color: green;
-}
 
 .browsehappy {
   margin: 0.2em 0;
@@ -60,6 +57,9 @@ body {
   .btn {
     font-size: 21px;
     padding: 14px 24px;
+  }
+  h1 {
+    color: green;
   }
 }
 
