@@ -41,7 +41,7 @@ module.exports = function (grunt) {
      },
      pages: {
        options: {
-         remote: 'git@github.com:lukegreen/wats4000-test-repo.git',
+         remote: 'https://github.com/lukegreen/wats4000-test-repo.git',
          branch: 'gh-pages'
        }
      }
